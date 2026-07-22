@@ -1,10 +1,10 @@
 # Python
 
-A collection of small Python scripts and exercises built while learning the language and its core concepts.
+A collection of completed Python projects demonstrating core programming skills.
 
 ## About
 
-This repo contains a series of practice scripts covering fundamental to intermediate Python concepts. Each script/exercise focuses on a specific skill or problem, written and tested in VS Code.
+This repo contains a series of completed scripts and small applications covering fundamental to intermediate Python concepts. Each project was built and tested in VS Code.
 
 ## Tech Stack
 
@@ -13,20 +13,20 @@ This repo contains a series of practice scripts covering fundamental to intermed
 
 ## What's Inside
 
-- Multiple standalone scripts, each exploring a different Python concept or small problem
-- Practice exercises covering fundamentals such as data structures, control flow, functions, and basic automation
-- Code written and run locally before being pushed to GitHub
+- Multiple completed, standalone Python projects, each demonstrating a different concept or solving a specific problem
+- Projects covering fundamentals such as data structures, control flow, functions, and basic automation
+- Code written and tested locally before being pushed to GitHub
 
 ## How to Run
 
 Clone the repo and run any script directly with Python:
 
-```bash
+\`\`\`bash
 git clone https://github.com/razz-1/Python.git
 cd Python
 python <script_name>.py
-```
+\`\`\`
 
 ## Notes
 
-This repo is a work in progress and is updated as new concepts are learned and practiced.
+This repo is updated as new projects are completed.
